@@ -1,0 +1,32 @@
+# Módulos Node.js
+node_modules/
+
+# Arquivos de log
+logs/
+*.log
+
+# Arquivos de build
+build/
+dist/
+
+# Arquivos de configuração
+.env
+.env.local
+.env.*.local
+
+# Arquivos de dependências gerados pelo npm/yarn
+package-lock.json
+yarn.lock
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos de desenvolvimento
+*.swp
+.DS_Store
+
+# Arquivos de cache
+.cache/
+
+# Não subir a pasta json
+json/

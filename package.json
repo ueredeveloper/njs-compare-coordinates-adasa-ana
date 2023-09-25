@@ -1,0 +1,14 @@
+{
+  "name": "njs-compare-coordinates-adasa-ana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ueredeveloper",
+  "license": "MIT",
+  "dependencies": {
+    "@turf/turf": "^6.5.0"
+  }
+}
